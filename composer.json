@@ -1,0 +1,12 @@
+{
+    "name": "crystoline/netcorepaginator",
+    "description": "Pagination library for Asp.NetCoreMvc",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Adekunle Adekoya",
+            "email": "crystoline@gmail.com"
+        }
+    ],
+    "require": {}
+}
