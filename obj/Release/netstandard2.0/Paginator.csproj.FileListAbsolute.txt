@@ -1,0 +1,9 @@
+C:\Users\cryst\source\repos\NetronIT\Paginator\bin\Release\netstandard2.0\Paginator.deps.json
+C:\Users\cryst\source\repos\NetronIT\Paginator\bin\Release\netstandard2.0\Paginator.dll
+C:\Users\cryst\source\repos\NetronIT\Paginator\bin\Release\netstandard2.0\Paginator.pdb
+C:\Users\cryst\source\repos\NetronIT\Paginator\obj\Release\netstandard2.0\Paginator.csprojResolveAssemblyReference.cache
+C:\Users\cryst\source\repos\NetronIT\Paginator\obj\Release\netstandard2.0\Paginator.csproj.CoreCompileInputs.cache
+C:\Users\cryst\source\repos\NetronIT\Paginator\obj\Release\netstandard2.0\Paginator.AssemblyInfoInputs.cache
+C:\Users\cryst\source\repos\NetronIT\Paginator\obj\Release\netstandard2.0\Paginator.AssemblyInfo.cs
+C:\Users\cryst\source\repos\NetronIT\Paginator\obj\Release\netstandard2.0\Paginator.dll
+C:\Users\cryst\source\repos\NetronIT\Paginator\obj\Release\netstandard2.0\Paginator.pdb
